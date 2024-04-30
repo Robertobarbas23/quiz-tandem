@@ -1,0 +1,56 @@
+input[type="radio"]{
+    display: none;
+  }
+  input:checked + label{
+    background-color: blueviolet;
+  }
+  label{
+    border:solid 1px black
+  }
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  #root {
+    text-align: center;
+    margin-top: 20px;
+  }
+  form {
+    margin-bottom: 20px;
+  }
+  p {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  div {
+    margin-bottom: 10px;
+  }
+  input[type="radio"] {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  label {
+    display: inline-block;
+    cursor: pointer;
+  }
+  button {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #0056B3;
+  }

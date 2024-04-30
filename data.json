@@ -1,0 +1,248 @@
+{ "title":"Datos históricos de Aranjuez",
+    "id_test":"",
+    "description": "Conoce fechas y datos sobre la historia de Aranjuez y sus lugares",
+    "author": "Roberto",
+    "img_feature":{
+        
+        "url": "img/portada.jpg",
+        "alt":""
+    },
+    "questions":[{
+        "id": 1,
+        "question": "¿Qué característica arquitectónica destaca en la fachada de la Iglesia de San Pascual?"
+        ,
+        "answer":{
+            "a": "Un rosetón",
+            "b": "Una torre campanario",
+            "c": "Arcos de medio punto",
+            "d": "Columnas corintias"
+        },
+        "results":{
+            "a": false, 
+            "b": false,
+            "c": false,
+            "d": true
+        },
+        "img": {
+            "url":"img/sanpascual.jpg",
+            "alt": "",
+            "desc": ""
+        },
+        "hint": "Columnas corintias",
+        "curiosity": ""
+    },
+    
+    {
+        "id": 2,
+        "question": "¿Cuál es la ubicación exacta del Hostal Castilla en Aranjuez?"
+        ,
+        "answer": {
+            "a": " Plaza de la Constitución",
+            "b": "Calle de la Reina",
+            "c": "Paseo de la Estación",
+            "d": "Carrera de Andalucía"
+      },
+        "results": {
+            "a": false,
+            "b": false,
+            "c": false,
+            "d": true
+      },
+        "img": {
+            "url": "img/hostal.jpg",
+            "alt": "",
+            "desc": ""
+      },
+        "hint": "Carrera de Andalucia",
+        "curiosity": ""
+    },
+
+    {
+        "id": 3,
+        "question": "¿Qué famoso evento cultural se celebra en la Casa de Santiago Rusiñol cada año en honor a su homenajeado?",
+        "answer":{
+            "a": " Festival de música clásica",
+            "b": "Feria de artesanía", 
+            "c": "Exposición de arte moderno",
+            "d": "Concurso de pintura al aire libre"
+        },
+        "results":{
+            "a": false, 
+            "b": false,
+            "c": false,
+            "d": true
+        },
+        "img": {
+            "url":"img/rusiñol2.jpg",
+            "alt": "",
+            "desc": ""
+        },
+        "hint": "",
+        "curiosity": "Concurso de pintura al aire libre"
+        
+    },
+    
+    {"id": 4,
+    "question": ".¿Qué función cumplía originalmente el Edificio de Pavía en Aranjuez?"
+    ,
+    "answer":{
+        "a": "Palacio real",
+        "b": "Ayuntamiento",
+        "c": "Cuartel Militar",
+        "d": "Hospital"
+    },
+    "results":{
+        "a": false, 
+        "b": true,
+        "c": false,
+        "d": false
+    },
+    "img": {
+        "url":"img/pavia.jpg",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "Cuartel militar",
+    "curiosity": ""
+},
+{"id": 5,
+    "question": "¿Quién fue el arquitecto responsable de diseñar el Teatro Carlos III de Aranjuez?"
+    ,
+    "answer":{
+        "a": "Juan de Villanueva",
+        "b": "Ventura Rodríguez",
+        "c": "Francisco Sabatini",
+        "d": "Manuel Martín Rodríguez"
+    },
+    "results":{
+        "a": false, 
+        "b": false,
+        "c": true,
+        "d": false
+    },
+    "img": {
+        "url":"img/teatro.jpg",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "Francisco de Sabatini",
+    "curiosity": ""
+},
+{"id": 6,
+    "question": " ¿Quién fue el arquitecto principal del edificio Pavía?"
+    ,
+    "answer":{
+        "a": "Francisco de Asís Cabrero",
+        "b": "Juan de Villanueva",
+        "c": "Isidro González Velázquez",
+        "d": "Manuel Serrano"
+    },
+    "results":{
+        "a": false, 
+        "b": false,
+        "c": false,
+        "d": true
+    },
+    "img": {
+        "url":"img/pavia.jpg",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "Manuel Serrano",
+    "curiosity": ""
+},
+{"id": 7,
+    "question": "¿Qué estilo arquitectónico predomina en el diseño del Mercado de Abastos?"
+    ,
+    "answer":{
+        "a": "Barroco",
+        "b": "Neoclásico",
+        "c": "Modernista",
+        "d": "Gótico"
+    },
+    "results":{
+        "a": false, 
+        "b": true,
+        "c": false,
+        "d": false
+    },
+    "img": {
+        "url":"img/abastos.jpg",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "Neoclásico",
+    "curiosity": ""
+},
+{"id": 8,
+    "question": "¿Qué característica distintiva tiene la fachada de la casa de Rusiñol en Aranjuez"
+    ,
+    "answer":{
+        "a": "Murales de cerámica",
+        "b": "Balcón de hierro forjado",
+        "c": "Escudos nobiliarios",
+        "d": "Tejado de pizarra"
+    },
+    "results":{
+        "a": false, 
+        "b": true,
+        "c": false,
+        "d": false
+    },
+    "img": {
+        "url":"img/rusiñol2.jpg",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "Balcón de hierro forjado",
+    "curiosity": ""
+},
+{"id": 9,
+    "question": "¿En qué año fue creado el Palacio de Medinaceli de Aranjuez?"
+    ,
+    "answer":{
+        "a": "1773",
+        "b": "1800",
+        "c": "1645",
+        "d": "1700"
+    },
+    "results":{
+        "a": true, 
+        "b": false,
+        "c": false,
+        "d": false
+    },
+    "img": {
+        "url":"img/Medinaceli.jpg",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "1773",
+    "curiosity": ""
+},
+{"id": 10,
+    "question": "¿Qué elementos decorativos se encuentran en el interior de la Iglesia de San Antonio?"
+    ,
+    "answer":{
+        "a": "Frescos renacentistas",
+        "b": "Esculturas góticas",
+        "c": "Retablos barrocos",
+        "d": " Mosaicos neoclásicos"
+    },
+    "results":{
+        "a": false, 
+        "b": false,
+        "c": true,
+        "d": false
+    },
+    "img": {
+        "url":"img/sanantonio.jpg",
+        "alt": "",
+        "desc": ""
+    },
+    "hint": "Retablos barrocos",
+    "curiosity": ""
+}
+]
+    
+}
